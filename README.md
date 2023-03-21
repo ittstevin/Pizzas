@@ -172,7 +172,7 @@ JSON data, along with the appropriate HTTP status code:
  - It allows users to create restaurants, pizzas, and restaurant pizzas that link a particular pizza to a particular restaurant with a price. 
  - The project is licensed under the MIT license, which means that it can be freely cloned and modified by anyone. If you have any questions or feedback about the project, feel free to reach out.
  ## Author
-  [Casey Ochieng](https://github.com/CaseyOchieng)
+  [Tevin Munene](https://github.com/ittstevin)
 
  ## License
   MIT
